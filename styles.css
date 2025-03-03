@@ -5,6 +5,17 @@ body{
     background-attachment: fixed;
     background-size: cover;
 }
+.logo{
+    text-align: center;
+    color: aqua;
+    background-color: rgba(250, 235, 215, 0.212);
+    width: 300px;
+    margin-left: 490px;
+    padding: 20px;
+}
+.odin{
+    width: 85px;
+}
 h1{
     text-align: center;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
